@@ -1,8 +1,6 @@
 spring:
   config:
     import: configserver:http://localhost:8888
-  application:
-    name: wallet-service
   h2:
     console:
       enabled: true
