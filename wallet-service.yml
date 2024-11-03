@@ -1,7 +1,4 @@
 spring:
-  cloud:
-    discovery:
-      enabled: true
   h2:
     console:
       enabled: true
